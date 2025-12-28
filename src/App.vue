@@ -1,6 +1,6 @@
 <template>
-  <div class="app-container  w-full min-h-screen  bg-[#d6e2f5ff] pb-5 lg:pt-3 px-5"
-  :class="isDark ? 'bg-[#09153eff] text-white' : 'bg-[#d6e2f5ff] text-black'">
+  <div class="app-container  w-full min-h-screen  pb-5 lg:pt-3 px-5"
+  :class="isDark ? 'bg-[#091540] text-white' : 'bg-[#d6e2f5ff] text-black'">
     <div class="flex flex-col w-full">
         <!-- Header -->
       <header class="header border rounded-[10px] bg-[#f7f7f8ff] my-3 mx-2">
